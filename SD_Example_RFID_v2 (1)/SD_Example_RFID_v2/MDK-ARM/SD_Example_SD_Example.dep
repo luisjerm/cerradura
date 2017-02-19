@@ -1,0 +1,573 @@
+Dependencies for Project 'SD_Example', Target 'SD_Example': (DO NOT MODIFY !)
+F (..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\startup\arm\startup_LPC17xx.s)(0x57FA7B44)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.c)(0x4E393426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+F (..\Libraries\CM3\CoreSupport\core_cm3.c)(0x4DD10CDA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\core_cm3.o --omf_browse .\core_cm3.crf --depend .\core_cm3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_wdt.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_wdt.o --omf_browse .\lpc17xx_wdt.crf --depend .\lpc17xx_wdt.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_wdt.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\debug_frmwrk.c)(0x4F648AB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\debug_frmwrk.o --omf_browse .\debug_frmwrk.crf --depend .\debug_frmwrk.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\debug_frmwrk.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_adc.c)(0x4E393426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_adc.o --omf_browse .\lpc17xx_adc.crf --depend .\lpc17xx_adc.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_adc.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_can.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_can.o --omf_browse .\lpc17xx_can.crf --depend .\lpc17xx_can.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_can.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_clkpwr.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_clkpwr.o --omf_browse .\lpc17xx_clkpwr.crf --depend .\lpc17xx_clkpwr.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\lpc17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_dac.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_dac.o --omf_browse .\lpc17xx_dac.crf --depend .\lpc17xx_dac.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_dac.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_emac.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_emac.o --omf_browse .\lpc17xx_emac.crf --depend .\lpc17xx_emac.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_emac.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_exti.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_exti.o --omf_browse .\lpc17xx_exti.crf --depend .\lpc17xx_exti.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_exti.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_gpdma.c)(0x4E393426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_gpdma.o --omf_browse .\lpc17xx_gpdma.crf --depend .\lpc17xx_gpdma.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpdma.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_gpio.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_gpio.o --omf_browse .\lpc17xx_gpio.crf --depend .\lpc17xx_gpio.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_i2c.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_i2c.o --omf_browse .\lpc17xx_i2c.crf --depend .\lpc17xx_i2c.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_i2c.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_i2s.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_i2s.o --omf_browse .\lpc17xx_i2s.crf --depend .\lpc17xx_i2s.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_i2s.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_libcfg_default.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_libcfg_default.o --omf_browse .\lpc17xx_libcfg_default.crf --depend .\lpc17xx_libcfg_default.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_mcpwm.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_mcpwm.o --omf_browse .\lpc17xx_mcpwm.crf --depend .\lpc17xx_mcpwm.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_mcpwm.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_nvic.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_nvic.o --omf_browse .\lpc17xx_nvic.crf --depend .\lpc17xx_nvic.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_nvic.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_pinsel.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_pinsel.o --omf_browse .\lpc17xx_pinsel.crf --depend .\lpc17xx_pinsel.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\lpc17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_pwm.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_pwm.o --omf_browse .\lpc17xx_pwm.crf --depend .\lpc17xx_pwm.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pwm.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_qei.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_qei.o --omf_browse .\lpc17xx_qei.crf --depend .\lpc17xx_qei.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_qei.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_rit.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_rit.o --omf_browse .\lpc17xx_rit.crf --depend .\lpc17xx_rit.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rit.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_rtc.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_rtc.o --omf_browse .\lpc17xx_rtc.crf --depend .\lpc17xx_rtc.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rtc.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_spi.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_spi.o --omf_browse .\lpc17xx_spi.crf --depend .\lpc17xx_spi.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_spi.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_ssp.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_ssp.o --omf_browse .\lpc17xx_ssp.crf --depend .\lpc17xx_ssp.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_systick.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_systick.o --omf_browse .\lpc17xx_systick.crf --depend .\lpc17xx_systick.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_systick.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_timer.c)(0x4E0077CE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_timer.o --omf_browse .\lpc17xx_timer.crf --depend .\lpc17xx_timer.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_timer.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_uart.c)(0x4E393426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\lpc17xx_uart.o --omf_browse .\lpc17xx_uart.crf --depend .\lpc17xx_uart.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E393428)
+F (..\USER\GLCD\AsciiLib.c)(0x4CEFD636)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\asciilib.o --omf_browse .\asciilib.crf --depend .\asciilib.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+F (..\USER\GLCD\GLCD.c)(0x5871446B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\glcd.o --omf_browse .\glcd.crf --depend .\glcd.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+F (..\USER\TouchPanel\TouchPanel.c)(0x57FA9E60)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\touchpanel.o --omf_browse .\touchpanel.crf --depend .\touchpanel.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+F (..\Libraries\RTL\File_Config.c)(0x52C97750)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\file_config.o --omf_browse .\file_config.crf --depend .\file_config.d)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\RTL.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\File_lib.c)(0x51D3CF36)
+I (C:\Keil\ARM\ARMCC\include\absacc.h)(0x51C7FD94)
+F (..\Libraries\RTL\FS_CM3.lib)(0x51C7EB9C)()
+F (..\Libraries\RTL\SPI_LPC17xx.c)(0x583B69B2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\spi_lpc17xx.o --omf_browse .\spi_lpc17xx.crf --depend .\spi_lpc17xx.d)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\RTL.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+F (..\Libraries\RTL\Retarget.c)(0x51C7EA14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\retarget.o --omf_browse .\retarget.crf --depend .\retarget.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\rt_sys.h)(0x51C7FD94)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\RTL.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\Serial.h)(0x51C7EA14)
+F (..\USER\main.c)(0x5873E9E0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\menu.h)(0x583D9546)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\RTL.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\timer.h)(0x583D79EA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\rtc.h)(0x57FA3F06)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rtc.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\MFRC522.h)(0x583D986A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\uart.h)(0x5873EA3B)
+F (..\USER\menu.c)(0x58A9E10A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\menu.o --omf_browse .\menu.crf --depend .\menu.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\SD_Functions.h)(0x586E8795)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\rtl.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\timer.h)(0x583D79EA)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\rtc.h)(0x57FA3F06)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rtc.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\RFID.h)(0x583DA114)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\MFRC522.h)(0x583D986A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\SPI_LPC17xx.h)(0x583B69B2)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\uart.h)(0x5873EA3B)
+F (..\USER\SD_Functions.c)(0x58A9D56F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\sd_functions.o --omf_browse .\sd_functions.crf --depend .\sd_functions.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\RTL.h)(0x51C80156)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\rtc.h)(0x57FA3F06)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rtc.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\timer.c)(0x583D79EA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+F (..\USER\rtc.c)(0x57FA506E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\rtc.o --omf_browse .\rtc.crf --depend .\rtc.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+F (..\USER\ventilador.c)(0x586E6155)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\ventilador.o --omf_browse .\ventilador.crf --depend .\ventilador.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\alarma.c)(0x5870DA6E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\alarma.o --omf_browse .\alarma.crf --depend .\alarma.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\pantalla.c)(0x5873C641)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\pantalla.o --omf_browse .\pantalla.crf --depend .\pantalla.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\tecladoM.c)(0x58A9E6E6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\tecladom.o --omf_browse .\tecladom.crf --depend .\tecladom.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\ADC.c)(0x58750267)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (.\tarjetaRFID.c)(0x586D7FD4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\tarjetarfid.o --omf_browse .\tarjetarfid.crf --depend .\tarjetarfid.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\SD_Functions.h)(0x586E8795)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\rtl.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\timer.h)(0x583D79EA)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\rtc.h)(0x57FA3F06)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rtc.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\RFID.h)(0x583DA114)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\MFRC522.h)(0x583D986A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\SPI_LPC17xx.h)(0x583B69B2)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\uart.c)(0x5874EE51)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\uart.h)(0x5873EA3B)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\modulos.h)(0x587166B3)
+I (C:\Keil\ARM\ARMCC\include\Math.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\GLCD.h)(0x58003D0A)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\TouchPanel\TouchPanel.h)(0x4F6836EE)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0077D0)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E393428)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\GLCD\AsciiLib.h)(0x4CEFD670)
+F (..\USER\uart.h)(0x5873EA3B)()
+F (.\readme.txt)(0x583DA220)()
+F (..\USER\MFRC522\MFRC522.c)(0x583D9BE4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\mfrc522.o --omf_browse .\mfrc522.crf --depend .\mfrc522.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\MFRC522.h)(0x583D986A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\SPI_LPC17xx.h)(0x583B69B2)
+I (C:\Keil\ARM\RV31\INC\File_Config.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\RTL\RTL.h)(0x51C80156)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\RFID.h)(0x583DA114)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\timer.h)(0x583D79EA)
+F (..\USER\MFRC522\RFID.c)(0x583DA114)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\USER -I..\Libraries\CM3\CoreSupport -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\USER\GLCD -I..\USER\TouchPanel -I..\USER\MFRC522 -I..\Libraries\RTL-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UART0 -o .\rfid.o --omf_browse .\rfid.crf --depend .\rfid.d)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\USER\MFRC522\MFRC522.h)(0x583D986A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cm3.h)(0x4E393426)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmInstr.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\CoreSupport\core_cmFunc.h)(0x4DD10CDA)
+I (C:\Users\ConchiJose\Desktop\V4\SD_Example_RFID_v2 (1)\SD_Example_RFID_v2\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD10CDA)

@@ -1,0 +1,12 @@
+.\mfrc522_spi.o: ..\USER\MFRC522\MFRC522_spi.c
+.\mfrc522_spi.o: ..\USER\MFRC522\MFRC522.h
+.\mfrc522_spi.o: C:\Keil472a\ARM\ARMCC\bin\..\include\stdint.h
+.\mfrc522_spi.o: C:\Keil472a\ARM\ARMCC\bin\..\include\string.h
+.\mfrc522_spi.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.H
+.\mfrc522_spi.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\mfrc522_spi.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\mfrc522_spi.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\mfrc522_spi.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\mfrc522_spi.o: ..\Libraries\RTL\SPI_LPC17xx.h
+.\mfrc522_spi.o: C:\Keil472a\ARM\RV31\INC\File_Config.h
+.\mfrc522_spi.o: ..\Libraries\RTL\RTL.h

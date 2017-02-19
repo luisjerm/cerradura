@@ -1,0 +1,12 @@
+.\debug_frmwrk.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\source\debug_frmwrk.c
+.\debug_frmwrk.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\debug_frmwrk.h
+.\debug_frmwrk.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h
+.\debug_frmwrk.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\debug_frmwrk.o: ..\Libraries\CM3\CoreSupport\core_cm3.h
+.\debug_frmwrk.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\debug_frmwrk.o: ..\Libraries\CM3\CoreSupport\core_cmInstr.h
+.\debug_frmwrk.o: ..\Libraries\CM3\CoreSupport\core_cmFunc.h
+.\debug_frmwrk.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\debug_frmwrk.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h
+.\debug_frmwrk.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h
+.\debug_frmwrk.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h
